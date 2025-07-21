@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+			<key>CFBundleURLName</key>
+			<string>com.SimeonTsekov.NavigationDemo</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>navigationdemo</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>retina_wide_light.otf</string>
+		<string>retina_narrow_medium.otf</string>
+		<string>retina_narrow_light.otf</string>
+		<string>retina_narrow_book.otf</string>
+		<string>retina_narrow_bold.otf</string>
+		<string>retina_narrow_black.otf</string>
+		<string>retina_medium.otf</string>
+		<string>retina_medium_italic.otf</string>
+		<string>retina_light.otf</string>
+		<string>retina_light_italic.otf</string>
+		<string>retina_extra_light.otf</string>
+		<string>retina_extra_light_italic.otf</string>
+		<string>retina_book.otf</string>
+		<string>retina_book_italic.otf</string>
+		<string>retina_bold.otf</string>
+		<string>retina_bold_italic.otf</string>
+		<string>retina_black.otf</string>
+		<string>retina_black_italic.otf</string>
+		<string>exchange_medium.otf</string>
+		<string>exchange_medium_italic.otf</string>
+		<string>exchange_light.otf</string>
+		<string>exchange_light_italic.otf</string>
+		<string>exchange_extra_light.otf</string>
+		<string>exchange_extra_light_italic.otf</string>
+		<string>exchange_book.otf</string>
+		<string>exchange_book_italic.otf</string>
+		<string>exchange_bold.otf</string>
+		<string>exchange_bold_italic.otf</string>
+		<string>escrow_condensed_semibold.otf</string>
+		<string>escrow_condensed_semibold_italic.otf</string>
+		<string>escrow_condensed_roman.otf</string>
+		<string>escrow_condensed_light.otf</string>
+		<string>escrow_condensed_light_italic.otf</string>
+		<string>escrow_condensed_italic.otf</string>
+		<string>escrow_condensed_bold.otf</string>
+		<string>escrow_condensed_bold_italic.otf</string>
+		<string>escrow_condensed_black.otf</string>
+		<string>escrow_condensed_black_italic.otf</string>
+	</array>
+</dict>
+</plist>
